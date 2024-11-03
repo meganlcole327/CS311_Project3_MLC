@@ -11,7 +11,7 @@ namespace CS311_Project3_MLC
         public PizzaPlace()
         {
             InitializeComponent();
-        }
+        } //end PizzaPlace
 
         private void btnCalculate_Click(object sender, EventArgs e)
         {
